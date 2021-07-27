@@ -28,4 +28,9 @@ This will only work on Such devices which support ARCORE devices which supports 
 
 https://developers.google.com/ar/discover/supported-devices
 
+
+Here's also a server whihc whill run on local device on that server out ML model is running. For detection user will send imgae from mobile to this server via the network and this server will process the image and sends back the label to detected objcet to device.
+
+without setting up and running the server detection won't take place.
+
 Enjoy!!!
