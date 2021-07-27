@@ -28,4 +28,6 @@ This will only work on Such devices which support ARCORE devices which supports 
 
 https://developers.google.com/ar/discover/supported-devices
 
+Here's also server file which will be used to detect the image lables. this server will run on local deive. Image will be sned to this server over the network and get its label back from server after detection. if server's not running the detection won't happen.
+
 Enjoy!!!
